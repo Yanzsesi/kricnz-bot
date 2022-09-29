@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Krizyz" //namabot kalian
+global.botname = "Z4K" //namabot kalian
 global.ownername= "Z4K STORE" //nama kalian
 global.myweb ="https://api.krishosting.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/krishosting" //bebas asal jan hapus
@@ -38,7 +38,7 @@ global.premium = ['6282180625481'] //premium user
 global.owner = ["6282180625481","628820.7324217"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282180625481" // nomor wa kalian
 global.ownernomerr = "6282180625481" //nmr wa kalian
-global.thumbnail = "./image/zak.jph" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/zak.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
