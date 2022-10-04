@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZEEONEOFC",
+  "author": "ZeeoneOfc",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:zeeone-ofc/baileys",
